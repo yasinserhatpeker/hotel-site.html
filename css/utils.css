@@ -81,7 +81,21 @@
     background-color: var(--dark);
 }
 .btn-light { 
-    color: var(--light);
+    color: var(--dark);
     background-color: var(--light);
-    
+
+}
+
+.btn-outline-primary { 
+    background: transparent;
+    border: 1px solid var(--primary);
+    color: var(--dark);
+
+}
+
+.btn-outline-primary:hover { 
+    background: var(--primary);
+    border: 1px solid var(--primary);
+    color: var(--white);
+
 }
