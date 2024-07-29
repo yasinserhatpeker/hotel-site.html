@@ -21,6 +21,7 @@ html{
 ul{
 
     list-style: none;
+    
 
 }
 
@@ -49,4 +50,31 @@ img {
 
 }
 
+.navbar {
+    display: flex;
+    background-color: var(--dark);
+   color: var(--white);
+   height: 60px;
+   
 
+
+}
+.lu-2 {
+   list-style: none;
+   display: flex;
+   align-items: center;
+   order: 1;
+  
+   
+    
+
+}
+.navbar h1 {
+    padding: 10px;
+}
+
+.lu-2 li {
+     margin: 15px;
+     
+    
+}
