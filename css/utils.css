@@ -49,3 +49,39 @@
     color: var(--white);
     background-color: var(--primary);
 }
+
+.btn-secondary { 
+    color: var(--white);
+    background-color: var(--secondary);
+}
+
+.btn-succes {
+    color: var(--white);
+    background-color: var(--succes);
+}
+
+.btn-danger {
+    color: var(--white);
+    background-color: var(--danger);
+}
+
+.btn-warning {
+    color:  var(--white);
+    background-color: var(--warning);
+
+}
+.btn-info {
+    color:  var(--white);
+    background-color: var(--info);
+
+}
+
+.btn-dark {
+    color: var(--white);
+    background-color: var(--dark);
+}
+.btn-light { 
+    color: var(--light);
+    background-color: var(--light);
+    
+}
