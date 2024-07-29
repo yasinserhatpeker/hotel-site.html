@@ -10,3 +10,11 @@
     --light: #f8f9fa;
 }
 
+.text-primary {color: var(--primary);}
+.text-secondary {color: var(--secondary);}
+.text-succes {color: var(--succes);}
+.text-danger {color: var(--danger);}
+.text-warning {color: var(--warning);}
+.text-info {color: var(--info);}
+.text-dark {color: var(--dark);}
+.text-light {color: var(--light);}
