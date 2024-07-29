@@ -9,6 +9,7 @@
     --dark: #343a40;
     --light: #f8f9fa;
 }
+/* text color */
 
 .text-primary {color: var(--primary);}
 .text-secondary {color: var(--secondary);}
@@ -18,3 +19,15 @@
 .text-info {color: var(--info);}
 .text-dark {color: var(--dark);}
 .text-light {color: var(--light);}
+
+/* bg-colors */ 
+
+.bg-primary {background-color: var(--primary);}
+.bg-secondary {background-color: var(--secondary);}
+.bg-succes {background-color: var(--succes);}
+.bg-danger {background-color: var(--danger);}
+.bg-warning {background-color: var(--warning);}
+.bg-info {background-color: var(--info);}
+.bg-dark {background-color: var(--dark);}
+.bg-light {background-color: var(--light);}
+
