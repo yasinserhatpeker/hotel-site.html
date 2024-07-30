@@ -151,3 +151,22 @@ img {
     margin-bottom: 1.5rem;
 
 }
+
+/* about */
+
+#about {
+    color: #fff;
+
+
+}
+#about h2 {
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+#about p {
+    margin: 2rem 0;
+    
+}
+
+
