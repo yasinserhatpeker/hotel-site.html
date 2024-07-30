@@ -99,3 +99,21 @@
     color: var(--white);
 
 }
+
+/* flex items */
+.flex-items {
+    display: flex;
+    flex: 25%;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+}
+.flex-items i {
+    color: var(--primary);
+    background-color: #fff;
+
+}
+.flex-items h3{
+    font-family: sans-serif;
+}
+/* flex grid */
