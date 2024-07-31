@@ -210,3 +210,22 @@ img {
     font-weight: 700;
 }
 
+.teams img {
+    border-radius: 50%;
+}
+.rooms img {
+    border-radius: 15px ;
+}
+
+.teams img:hover {
+    transition: 0.3s;
+    opacity: 0.9;
+}
+.rooms .desc {
+    border-radius: 15px;
+}
+.rooms img:hover {
+   opacity: 0.9;
+   box-shadow: inset;
+}
+
