@@ -175,8 +175,23 @@ img {
  opacity: 0.9;
 }
 
-.rooms {
-    margin: 2rem;
+.flex-items .rooms {
+    margin: 3rem;
+
+    
 }
 
+.hotel-rooms .desc {
+    background-color: var(--warning);
+    color: #fff;
+    padding: 1rem;
+    
+   
 
+}
+.hotel-rooms .desc h2 {
+    margin: 1rem;
+}
+.hotel-rooms .desc p {
+    padding: 1rem;
+}
