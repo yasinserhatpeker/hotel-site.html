@@ -169,4 +169,9 @@ img {
     
 }
 
+/* gallery */
+.gallery img:hover{
+ cursor: pointer;
+ opacity: 0.9;
+}
 
