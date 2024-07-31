@@ -195,3 +195,16 @@ img {
 .hotel-rooms .desc p {
     padding: 1rem;
 }
+
+.flex-items .teams {
+    margin: 4rem;
+
+    
+}
+.flex-items .teams h1 {
+    font-size: 2.5rem;
+}
+.flex-items .teams p {
+    font-size: 1.5rem;
+}
+
