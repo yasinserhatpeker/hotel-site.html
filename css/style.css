@@ -177,7 +177,7 @@ img {
 
 .flex-items .rooms {
     margin: 3rem;
-
+    
     
 }
 
@@ -185,6 +185,7 @@ img {
     background-color: var(--warning);
     color: #fff;
     padding: 1rem;
+    font-weight: 700;
     
    
 
@@ -206,5 +207,6 @@ img {
 }
 .flex-items .teams p {
     font-size: 1.5rem;
+    font-weight: 700;
 }
 
