@@ -122,6 +122,7 @@
 
 
 /* flex-columns */
+
 .flex-columns .flex-reverse .row{
     flex-direction: row-reverse;
 
