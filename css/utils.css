@@ -185,6 +185,10 @@
 .section-padding {
     padding: 2rem 2rem 4rem;
 }
+
+.section-header p {
+    font-size: 2rem;
+}
     
 
 
