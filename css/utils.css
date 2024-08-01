@@ -197,6 +197,14 @@
    .flex-items{
     flex-direction: column;
    }
+   .flex-columns .column {
+    flex: 100%;
+
+}
+.flex-grid .column {
+    flex: 50%;
+    padding: 0 .4rem;
+}
 }    
 
 

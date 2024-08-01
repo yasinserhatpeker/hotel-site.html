@@ -188,7 +188,7 @@ img {
     font-weight: 700;
     
    
-
+/* about */
 }
 .hotel-rooms .desc h2 {
     margin: 1rem;
@@ -200,7 +200,7 @@ img {
 .flex-items .teams {
     margin: 4rem;
 
-    
+/* team */  
 }
 .flex-items .teams h1 {
     font-size: 2.5rem;
@@ -297,5 +297,9 @@ img {
     .navbar a {
         padding: 10px;
         margin: 0 3px;
+    }
+
+    .teams img {
+        width: 70%;
     }
 }
