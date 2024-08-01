@@ -190,7 +190,14 @@
     font-size: 2rem;
 }
 
-    
+
+@media (max-width:768px)
+{
+
+   .flex-items{
+    flex-direction: column;
+   }
+}    
 
 
 
