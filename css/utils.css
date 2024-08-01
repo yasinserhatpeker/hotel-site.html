@@ -204,7 +204,7 @@
     flex-direction: column;
    }
    .flex-columns .column {
-    flex: 100%;
+    flex: 100% !important;
 
 }
 .flex-grid .column {
