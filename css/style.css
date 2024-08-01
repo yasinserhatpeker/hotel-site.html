@@ -250,3 +250,11 @@ img {
     height: 40px;
     border: 1px solid #f5f5f5;
 }
+
+.contact-form .btn {
+    
+    margin-top: 20px;
+}
+.contact h2 {
+    font-size: 4rem;
+}
