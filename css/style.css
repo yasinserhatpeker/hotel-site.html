@@ -258,3 +258,13 @@ img {
 .contact h2 {
     font-size: 4rem;
 }
+
+/* footer */
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+
+}
